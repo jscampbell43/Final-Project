@@ -11,4 +11,4 @@ Primary features
   
 SOURCES:
   1. Unity in Action
-  2. Blender Tutorials
+  2. Blender Tutorials: https://www.blender.org/support/tutorials/
